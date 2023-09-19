@@ -1,0 +1,12 @@
+p {
+    color: red;
+    font-size: 50px;
+}
+
+.test-class {
+    color: purple;
+}
+
+#test-id {
+    font-size: 100px;
+}
